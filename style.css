@@ -1,0 +1,57 @@
+/* #total {
+    float: left;
+} */
+
+#picture {
+    background-color: darkseagreen;
+    width: 25%;
+    border: 2px solid black;
+    margin-right: 5%;
+    float: left;
+    text-align: center;
+    height: 650px;
+}
+
+#titulo {
+    font-family: 'Nunito', sans-serif;
+    color: teal;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Nunito', sans-serif;
+    color: whitesmoke;
+    
+}
+h2.titulos_negrita{
+    color: black;
+    border-bottom: 2px solid black;
+}
+
+#bloque_oscuro {
+    background-color: darkgray;
+    border: 2px solid black;
+    width:25%;
+    height:50%;
+    float: left;
+
+}
+#bloque_grande {
+    background-color: thistle;
+    font-family: 'Nunito', sans-serif;
+    width: 70%;
+    height: 100%;
+    text-align: center;
+    margin-left: 25%;
+    text-align: center;
+
+}
+ul {
+font-family: 'Nunito', sans-serif;
+
+}
+
+li.sangria{
+    text-indent: 10px; 
+
+}
